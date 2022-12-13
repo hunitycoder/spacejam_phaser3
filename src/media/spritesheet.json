@@ -1,0 +1,735 @@
+{
+	"frames": {
+		"ball-gold.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 100,
+				"h": 101
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 100,
+				"h": 101
+			},
+			"sourceSize": {
+				"w": 100,
+				"h": 101
+			}
+		},
+		"ball-oilspill.png": {
+			"frame": {
+				"x": 103,
+				"y": 1,
+				"w": 100,
+				"h": 100
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 100,
+				"h": 100
+			},
+			"sourceSize": {
+				"w": 100,
+				"h": 100
+			}
+		},
+		"ball-platinum.png": {
+			"frame": {
+				"x": 205,
+				"y": 1,
+				"w": 101,
+				"h": 100
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 101,
+				"h": 100
+			},
+			"sourceSize": {
+				"w": 101,
+				"h": 100
+			}
+		},
+		"ball-traditional.png": {
+			"frame": {
+				"x": 308,
+				"y": 1,
+				"w": 100,
+				"h": 100
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 100,
+				"h": 100
+			},
+			"sourceSize": {
+				"w": 100,
+				"h": 100
+			}
+		},
+		"ball-trail-0.png": {
+			"frame": {
+				"x": 410,
+				"y": 1,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"ball-trail-1.png": {
+			"frame": {
+				"x": 540,
+				"y": 1,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"ball-trail-2.png": {
+			"frame": {
+				"x": 670,
+				"y": 1,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"ball-trail-3.png": {
+			"frame": {
+				"x": 800,
+				"y": 1,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"ball-trail-white.png": {
+			"frame": {
+				"x": 930,
+				"y": 1,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"basket-board-default.png": {
+			"frame": {
+				"x": 1060,
+				"y": 1,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"basket-board-gold.png": {
+			"frame": {
+				"x": 1,
+				"y": 403,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"basket-board-orange.png": {
+			"frame": {
+				"x": 403,
+				"y": 403,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"basket-board-purple.png": {
+			"frame": {
+				"x": 805,
+				"y": 403,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"basket-hoop-default.png": {
+			"frame": {
+				"x": 1,
+				"y": 805,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"basket-hoop-gold.png": {
+			"frame": {
+				"x": 403,
+				"y": 805,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"basket-hoop-orange.png": {
+			"frame": {
+				"x": 805,
+				"y": 805,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"basket-hoop-purple.png": {
+			"frame": {
+				"x": 1462,
+				"y": 1,
+				"w": 400,
+				"h": 400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 400
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 400
+			}
+		},
+		"launcher-base.png": {
+			"frame": {
+				"x": 1207,
+				"y": 403,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"launcher-tip-0.png": {
+			"frame": {
+				"x": 1509,
+				"y": 403,
+				"w": 132,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 132,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 132,
+				"h": 300
+			}
+		},
+		"launcher-tip-1.png": {
+			"frame": {
+				"x": 1643,
+				"y": 403,
+				"w": 132,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 132,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 132,
+				"h": 300
+			}
+		},
+		"launcher-tip-2.png": {
+			"frame": {
+				"x": 1777,
+				"y": 403,
+				"w": 132,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 132,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 132,
+				"h": 300
+			}
+		},
+		"launcher-tip-3.png": {
+			"frame": {
+				"x": 1207,
+				"y": 705,
+				"w": 132,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 132,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 132,
+				"h": 300
+			}
+		},
+		"launcher-tip-4.png": {
+			"frame": {
+				"x": 1341,
+				"y": 705,
+				"w": 132,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 132,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 132,
+				"h": 300
+			}
+		},
+		"obstacle-for-development.png": {
+			"frame": {
+				"x": 1475,
+				"y": 705,
+				"w": 201,
+				"h": 201
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 201,
+				"h": 201
+			},
+			"sourceSize": {
+				"w": 201,
+				"h": 201
+			}
+		},
+		"obstacle-goop.png": {
+			"frame": {
+				"x": 1678,
+				"y": 705,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"obstacle-mace.png": {
+			"frame": {
+				"x": 1678,
+				"y": 907,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"obstacle-tnt.png": {
+			"frame": {
+				"x": 1207,
+				"y": 1109,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"platform-corner-lg.png": {
+			"frame": {
+				"x": 1409,
+				"y": 1109,
+				"w": 400,
+				"h": 403
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 400,
+				"h": 403
+			},
+			"sourceSize": {
+				"w": 400,
+				"h": 403
+			}
+		},
+		"platform-corner-sm.png": {
+			"frame": {
+				"x": 1,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"platform-square.png": {
+			"frame": {
+				"x": 203,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"points-A.png": {
+			"frame": {
+				"x": 405,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"points-J.png": {
+			"frame": {
+				"x": 607,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"points-M.png": {
+			"frame": {
+				"x": 809,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"power-up-gravity.png": {
+			"frame": {
+				"x": 1011,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"power-up-magnet.png": {
+			"frame": {
+				"x": 1213,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"power-up-speed.png": {
+			"frame": {
+				"x": 1415,
+				"y": 1514,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1910,
+			"h": 1715
+		},
+		"scale": "1"
+	}
+}

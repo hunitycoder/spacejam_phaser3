@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'ATTAleckSans';
+  src: url('./ATTAleckSansFixed_Rg.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ATTAleckSans';
+  font-weight: bold;
+  src: url('./ATTAleckSansFixed_Bd.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ATTAleckCd';
+  src: url('./ATTAleckCdFixed_Rg.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ATTAleckCd';
+  font-weight: bold;
+  src: url('./ATTAleckCdFixed_Bd.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Politica';
+  font-style: italic;
+  font-weight: 900;
+  src: url('./Politica_Black_Italic.otf') format('truetype');
+}

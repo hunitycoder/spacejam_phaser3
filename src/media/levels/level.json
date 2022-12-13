@@ -1,0 +1,344 @@
+{
+  "ID": "Level1",
+  "levelstates": {
+    "cells": [
+      {
+        "type": "A",
+        "positions": [
+          {
+            "x": 1300,
+            "y": 300,
+            "orientation": 0
+          }
+        ]
+      },
+      {
+        "type": "J",
+        "positions": [
+          {
+            "x": 700,
+            "y": 900,
+            "orientation": 0
+          }
+        ]
+      },
+      {
+        "type": "M",
+        "positions": [
+          {
+            "x": 2700,
+            "y": 700,
+            "orientation": 0
+          }
+        ]
+      },
+      {
+        "type": "Gravity",
+        "positions": [
+          {
+            "x": 2500,
+            "y": 1900,
+            "orientation": 0
+          }
+        ]
+      },
+      {
+        "type": "Magnet",
+        "positions": [
+          {
+            "x": 400,
+            "y": 1900,
+            "orientation": 0
+          }
+        ]
+      },
+      {
+        "type": "Speed",
+        "positions": [
+          {
+            "x": 2500,
+            "y": 1700,
+            "orientation": 0
+          }
+        ]
+      },
+      {
+        "type": "Goop",
+        "positions": []
+      },
+      {
+        "type": "Mace",
+        "positions": []
+      },
+      {
+        "type": "Tnt",
+        "positions": []
+      },
+      {
+        "type": "Obstacle",
+        "positions": [
+          {
+            "x": 700,
+            "y": 500,
+            "orientation": 0
+          },
+          {
+            "x": 500,
+            "y": 500,
+            "orientation": 0
+          },
+          {
+            "x": 700,
+            "y": 700,
+            "orientation": 0
+          },
+          {
+            "x": 500,
+            "y": 700,
+            "orientation": 0
+          },
+          {
+            "x": 2300,
+            "y": 500,
+            "orientation": 0
+          },
+          {
+            "x": 100,
+            "y": 1900,
+            "orientation": 0
+          },
+          {
+            "x": 100,
+            "y": 1700,
+            "orientation": 0
+          },
+          {
+            "x": 2100,
+            "y": 500,
+            "orientation": 0
+          },
+          {
+            "x": 2100,
+            "y": 700,
+            "orientation": 0
+          },
+          {
+            "x": 2300,
+            "y": 700,
+            "orientation": 0
+          },
+          {
+            "x": 2700,
+            "y": 1900,
+            "orientation": 0
+          },
+          {
+            "x": 2700,
+            "y": 1700,
+            "orientation": 0
+          },
+          {
+            "x": 1100,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 700,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 2100,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 1700,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 900,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 1900,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 1300,
+            "y": 1700,
+            "orientation": 0
+          },
+          {
+            "x": 1100,
+            "y": 1700,
+            "orientation": 0
+          },
+          {
+            "x": 1500,
+            "y": 1700,
+            "orientation": 0
+          },
+          {
+            "x": 1700,
+            "y": 1700,
+            "orientation": 0
+          },
+          {
+            "x": 1300,
+            "y": 500,
+            "orientation": 0
+          },
+          {
+            "x": 1500,
+            "y": 500,
+            "orientation": 0
+          },
+          {
+            "x": 1500,
+            "y": 700,
+            "orientation": 0
+          },
+          {
+            "x": 1300,
+            "y": 700,
+            "orientation": 0
+          },
+          {
+            "x": 500,
+            "y": 2700,
+            "orientation": 0
+          },
+          {
+            "x": 100,
+            "y": 2100,
+            "orientation": 0
+          },
+          {
+            "x": 2700,
+            "y": 2100,
+            "orientation": 0
+          },
+          {
+            "x": 700,
+            "y": 2700,
+            "orientation": 0
+          },
+          {
+            "x": 2300,
+            "y": 2700,
+            "orientation": 0
+          },
+          {
+            "x": 300,
+            "y": 2700,
+            "orientation": 0
+          },
+          {
+            "x": 2500,
+            "y": 2700,
+            "orientation": 0
+          },
+          {
+            "x": 2100,
+            "y": 2700,
+            "orientation": 0
+          },
+          {
+            "x": 2300,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 500,
+            "y": 100,
+            "orientation": 0
+          }
+        ]
+      },
+      {
+        "type": "Square",
+        "positions": [
+          {
+            "x": 2100,
+            "y": 1100,
+            "orientation": 0
+          },
+          {
+            "x": 700,
+            "y": 1100,
+            "orientation": 3
+          },
+          {
+            "x": 1500,
+            "y": 1900,
+            "orientation": 2
+          },
+          {
+            "x": 1300,
+            "y": 1900,
+            "orientation": 1
+          }
+        ]
+      },
+      {
+        "type": "Triangle",
+        "positions": [
+          {
+            "x": 900,
+            "y": 1100,
+            "orientation": 3
+          },
+          {
+            "x": 1900,
+            "y": 1100,
+            "orientation": 2
+          },
+          {
+            "x": 500,
+            "y": 1100,
+            "orientation": 1
+          },
+          {
+            "x": 2300,
+            "y": 1100,
+            "orientation": 0
+          },
+          {
+            "x": 1700,
+            "y": 1900,
+            "orientation": 0
+          },
+          {
+            "x": 1100,
+            "y": 1900,
+            "orientation": 1
+          },
+          {
+            "x": 1500,
+            "y": 100,
+            "orientation": 0
+          },
+          {
+            "x": 1300,
+            "y": 100,
+            "orientation": 1
+          },
+          {
+            "x": 100,
+            "y": 2700,
+            "orientation": 3
+          },
+          {
+            "x": 2700,
+            "y": 2700,
+            "orientation": 2
+          }
+        ]
+      }
+    ]
+  }
+}

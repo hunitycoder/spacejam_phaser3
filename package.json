@@ -1,0 +1,91 @@
+{
+    "name": "exp-static-spacejam-gamedesigner",
+    "description": "EXP Space Jam Game Designer",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/twenty-four-7/exp-static-spacejam-gamedesigner"
+    },
+    "main": "index.js",
+    "auther": "Loi Dang",
+    "scripts": {
+        "network-info": "echo \"ℹ ｢wds｣: Project is on local network at http:/\" | tr \"\n\" \"/\"; ifconfig | grep 'inet ' | grep -Fv 127.0.0.1 | awk '{print $2}' | head -n 1",
+        "start": "npm run network-info; ENVIRONMENT=local webpack-dev-server",
+        "build": "ENVIRONMENT=production webpack --mode production",
+        "deploy": "ENVIRONMENT=production bash ./scripts/deploy.sh",
+        "postversion": "npm run build; npm run deploy"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app"
+        ],
+        "rules": {
+            "comma-dangle": [
+                1,
+                "always-multiline"
+            ],
+            "semi": [
+                "warn",
+                "never"
+            ],
+            "quotes": [
+                "warn",
+                "single"
+            ],
+            "indent": [
+                "warn",
+                2
+            ]
+        }
+    },
+    "devDependencies": {
+        "@babel/core": "^7.13.16",
+        "@babel/plugin-proposal-class-properties": "^7.13.0",
+        "@babel/plugin-syntax-jsx": "^7.14.5",
+        "@babel/plugin-transform-runtime": "^7.13.15",
+        "@babel/preset-env": "^7.13.15",
+        "@babel/preset-react": "^7.14.5",
+        "@types/react": "^17.0.5",
+        "@types/react-dom": "^17.0.5",
+        "@types/styled-components": "^5.1.9",
+        "@typescript-eslint/eslint-plugin": "^4.23.0",
+        "@typescript-eslint/parser": "^4.23.0",
+        "babel-eslint": "^10.1.0",
+        "babel-loader": "^8.2.2",
+        "babel-plugin-styled-components": "^1.12.0",
+        "clean-webpack-plugin": "^3.0.0",
+        "copy-webpack-plugin": "^6.4.1",
+        "css-loader": "^5.2.6",
+        "dotenv-webpack": "^7.0.2",
+        "eslint": "^7.26.0",
+        "eslint-config-react-app": "^6.0.0",
+        "eslint-plugin-flowtype": "^5.7.2",
+        "eslint-plugin-import": "^2.23.4",
+        "eslint-plugin-react": "^7.23.2",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "eslint-webpack-plugin": "^2.5.4",
+        "file-loader": "^6.2.0",
+        "fork-ts-checker-webpack-plugin": "^6.2.9",
+        "html-webpack-plugin": "^4.5.2",
+        "style-loader": "^2.0.0",
+        "ts-loader": "^8.2.0",
+        "typescript": "^4.2.4",
+        "url-loader": "^4.1.1",
+        "webpack": "^4.46.0",
+        "webpack-cli": "^3.3.12",
+        "webpack-dev-server": "^3.11.2"
+    },
+    "dependencies": {
+        "@directus/sdk": "^9.0.0-rc.71",
+        "@react-aria/button": "^3.3.2",
+        "@react-hook/window-size": "^3.0.7",
+        "eslint-plugin-jsx-a11y": "^6.4.1",
+        "fs": "0.0.1-security",
+        "phaser": "^3.55.2",
+        "phaser-matter-collision-plugin": "^0.10.2",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "styled-breakpoints": "^10.0.1",
+        "styled-components": "^5.3.0"
+    }
+}
